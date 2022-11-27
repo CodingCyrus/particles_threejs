@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Particles
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
